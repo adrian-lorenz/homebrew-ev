@@ -1,8 +1,8 @@
 class Ev < Formula
   desc "Secure environment variable manager with keychain integration"
-  homepage "https://github.com/adrian-lorenz/ev"
-  url "https://github.com/adrian-lorenz/ev/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "d2c9e4ea35fd6fdfbae1b349fe67950f3333a48261d9dd85357778a1c8079185"
+  homepage "https://git-wall.de/noa-x/ev"
+  url "https://git-wall.de/noa-x/ev/releases/v1.0.10/archive.tar.gz"
+  sha256 "015a0aba51ae3515e8e0f7ee0b4448b633b4503dc4047a135f1f22e702eb23dd"
   license "MIT"
 
   depends_on "go" => :build
